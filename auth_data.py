@@ -1,2 +1,2 @@
-tg_bot_token = "5400393089:AAF79dhvNUI0EsogOa1T_toBAfHsbt_ugoI"
-App_URL = f"https://git.heroku.com/my-bot-1.git/{tg_bot_token}"
+tg_bot_token = "6030811426:AAGa0_cX7uz-RNk4pR8eqkplGF6cY_a4-rM"
+App_URL = f"https://my-bot-1.herokuapp.com/{tg_bot_token}"
